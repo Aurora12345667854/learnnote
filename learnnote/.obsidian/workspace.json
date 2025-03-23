@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "5531e233bab00775",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb9672f9fdad21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2629a4628ab5913c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/ComplexFunction/Chapter1/1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b98c667b09bd0c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4374c66c38f846b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab750e80ca563b7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3a10a3e4d2179a1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ff0f30197730c06e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6aff9e528bdc4f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a78a599359c186f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b795302ba8bcfe3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/群论.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "群论 的反向链接列表"
+            }
+          },
+          {
+            "id": "45e1bbbf1ee702a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "材料科学基础/晶体学基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "晶体学基础 的出链列表"
+            }
+          },
+          {
+            "id": "5e9e4dbc25494db2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "544631493d2bc968",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/ComplexFunction/Chapter1/1.1.md"
+              },
+              "icon": "lucide-list",
+              "title": "1.1 的大纲"
+            }
+          },
+          {
+            "id": "2bc7621808afc2ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "3f33d04f2f91237c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2629a4628ab5913c",
+  "lastOpenFiles": [
+    "Math/ComplexFunction/Chapter1/1.1.md",
+    "Math/ComplexFunction/Chapter1",
+    "Math/Complex Functions/未命名.md",
+    "Math/ComplexFunction",
+    "Math/未命名.md",
+    "Math/Complex Functions",
+    "Math",
+    "eng1.md",
+    "Math/群论.md",
+    "材料科学基础/晶体学基础.md",
+    "Math",
+    "未命名.md",
+    "材料科学基础",
+    "未命名 1.md",
+    "欢迎.md"
+  ]
+}
