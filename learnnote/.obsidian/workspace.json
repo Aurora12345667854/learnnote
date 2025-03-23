@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/README.md",
+                "file": "Math/ComplexFunction/Chapter1/1.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1.1"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/README.md"
+                "file": "Math/ComplexFunction/Chapter1/1.1.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "1.1 的大纲"
             }
           },
           {
@@ -189,8 +189,8 @@
   },
   "active": "2629a4628ab5913c",
   "lastOpenFiles": [
-    "Math/ComplexFunction/Chapter1/1.2.md",
     "Physics/README.md",
+    "Math/ComplexFunction/Chapter1/1.2.md",
     "Physics",
     "Math/ComplexFunction/Chapter1/1.1.md",
     "Math/ComplexFunction/Chapter1",
