@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/ComplexFunction/Chapter1/1.1.md",
+                "file": "CodeLearn/julia/类型传递.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1"
+              "title": "类型传递"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/ComplexFunction/Chapter1/1.1.md"
+                "file": "CodeLearn/julia/类型传递.md"
               },
               "icon": "lucide-list",
-              "title": "1.1 的大纲"
+              "title": "类型传递 的大纲"
             }
           },
           {
@@ -189,12 +189,19 @@
   },
   "active": "ab750e80ca563b7b",
   "lastOpenFiles": [
+    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+    "CodeLearn/julia/类型传递.md",
+    "CodeLearn/julia.md",
+    "CodeLearn/julia",
+    "Math/ComplexFunction/Chapter1/1.1.md",
+    "MSEclass/Fundation/未命名.md",
+    "MSEclass/Fundation/Chapter1",
+    "MSEclass/Fundation",
     "MSEclass",
     "CodeLearn",
     "Physics/README.md",
     "Math/ComplexFunction/Chapter1/1.2.md",
     "Physics",
-    "Math/ComplexFunction/Chapter1/1.1.md",
     "Math/ComplexFunction/Chapter1",
     "Math/Complex Functions/未命名.md",
     "Math/ComplexFunction",
@@ -204,9 +211,7 @@
     "eng1.md",
     "Math/群论.md",
     "材料科学基础/晶体学基础.md",
-    "Math",
     "未命名.md",
-    "材料科学基础",
     "未命名 1.md",
     "欢迎.md"
   ]
