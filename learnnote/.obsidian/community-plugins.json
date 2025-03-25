@@ -1,5 +1,8 @@
 [
   "obsidian-completr",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "js-engine",
+  "handwritten-notes",
+  "obsidian-excalidraw-plugin"
 ]
