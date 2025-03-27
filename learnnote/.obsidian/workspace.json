@@ -11,14 +11,28 @@
             "id": "cf9bbf3e090ed2f4",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "learnnote/.obsidian/workspace.json",
+                "bFile": "learnnote/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "c5dab711f6570ad8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 原子结构"
+              "title": "README"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "1.1 原子结构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +102,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.1 原子结构 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -127,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.1 原子结构 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -154,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "1.1 原子结构 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -205,12 +219,14 @@
       "zenmode:Toggle Zen Mode": false
     }
   },
-  "active": "3f33d04f2f91237c",
+  "active": "c5dab711f6570ad8",
   "lastOpenFiles": [
+    "README.md",
+    "未命名",
     "Physics/README.md",
+    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
     "Math/ComplexFunction/Chapter1/1.2.md",
     "Math/ComplexFunction/Chapter1/1.1.md",
-    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/vanilla-normal.scss",
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/vanilla-plus.scss",
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/sleek.scss",
@@ -220,7 +236,6 @@
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/main.scss",
     "AnuPpuccin/src/modules/Workspace/Tabs/safari-vanilla-tabs.scss",
     "AnuPpuccin/src/modules/Workspace/Tabs/safari-tabs.scss",
-    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/index.scss",
     "AnuPpuccin/preview.png",
     "AnuPpuccin/assets/colorschemes/solarized-light.webp",
     "AnuPpuccin/assets/colorschemes/solarized-dark.webp",
@@ -242,7 +257,6 @@
     "eng1.md",
     "Math/群论.md",
     "材料科学基础/晶体学基础.md",
-    "未命名.md",
     "未命名 1.md",
     "欢迎.md"
   ]
