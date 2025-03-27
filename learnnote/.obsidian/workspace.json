@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "1.1 原子结构"
             }
+          },
+          {
+            "id": "262138ab69287e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 原子结构"
+            }
           }
         ]
       }
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +87,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/群论.md",
+                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "群论 的反向链接列表"
+              "title": "1.1 原子结构 的反向链接列表"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "材料科学基础/晶体学基础.md",
+                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "晶体学基础 的出链列表"
+              "title": "1.1 原子结构 的出链列表"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/ComplexFunction/Chapter1/1.2.md"
+                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md"
               },
               "icon": "lucide-list",
-              "title": "1.2 的大纲"
+              "title": "1.1 原子结构 的大纲"
             }
           },
           {
@@ -174,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 721.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,30 +201,42 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
       "handwritten-notes:Create empty handwritten note": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "zenmode:Toggle Zen Mode": false
     }
   },
-  "active": "cf9bbf3e090ed2f4",
+  "active": "3f33d04f2f91237c",
   "lastOpenFiles": [
     "Physics/README.md",
-    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
-    "CodeLearn/julia/类型传递.md",
+    "Math/ComplexFunction/Chapter1/1.2.md",
     "Math/ComplexFunction/Chapter1/1.1.md",
+    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/vanilla-normal.scss",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/vanilla-plus.scss",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/sleek.scss",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/block.scss",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/misc-callouts.scss",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/main.scss",
+    "AnuPpuccin/src/modules/Workspace/Tabs/safari-vanilla-tabs.scss",
+    "AnuPpuccin/src/modules/Workspace/Tabs/safari-tabs.scss",
+    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/index.scss",
+    "AnuPpuccin/preview.png",
+    "AnuPpuccin/assets/colorschemes/solarized-light.webp",
+    "AnuPpuccin/assets/colorschemes/solarized-dark.webp",
+    "AnuPpuccin/assets/colorschemes/sandy-beaches-light.webp",
+    "AnuPpuccin/assets/colorschemes/royal-velvet.webp",
+    "AnuPpuccin/assets/colorschemes/rosepine-light.webp",
+    "AnuPpuccin/assets/colorschemes/rosepine-dark.webp",
+    "AnuPpuccin/assets/colorschemes/rosebox-dark.webp",
+    "AnuPpuccin/assets/colorschemes/notion-light.webp",
+    "AnuPpuccin/assets/colorschemes/notion-dark.webp",
+    "AnuPpuccin/README.md",
+    "CodeLearn/julia/类型传递.md",
     "Excalidraw/Drawing 2025-03-25 21.52.51.excalidraw.md",
     "Excalidraw/Drawing 2025-03-27 22.25.12.excalidraw.md",
-    "Math/ComplexFunction/Chapter1/1.2.md",
-    "handwritten-notes/New note.pdf",
-    "Excalidraw",
-    "excalidraw 25-03-25 09.49.01.ex",
-    "tesrfig1.ex",
-    "handwritten-notes",
     "CodeLearn/julia.md",
-    "CodeLearn/julia",
     "MSEclass/Fundation/未命名.md",
-    "MSEclass/Fundation/Chapter1",
-    "MSEclass/Fundation",
-    "MSEclass",
-    "CodeLearn",
     "Math/Complex Functions/未命名.md",
     "Math/未命名.md",
     "eng1.md",

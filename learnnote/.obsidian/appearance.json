@@ -1,4 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "GitHub Theme"
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#7357ff",
+  "interfaceFontFamily": "DejaVu Serif",
+  "monospaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Adobe Hebrew",
+  "baseFontSize": 19
 }

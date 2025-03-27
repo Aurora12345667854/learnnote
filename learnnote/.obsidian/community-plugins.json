@@ -4,5 +4,7 @@
   "obsidian-git",
   "js-engine",
   "handwritten-notes",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings",
+  "zenmode"
 ]

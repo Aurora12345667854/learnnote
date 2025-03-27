@@ -1,0 +1,10 @@
+{
+  "id@@callout-on": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-pink",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon",
+  "anuppuccin-theme-settings@@anp-latex-inline-color": "anp-latex-inline-text",
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true
+}
