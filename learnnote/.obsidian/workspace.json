@@ -11,12 +11,14 @@
             "id": "cf9bbf3e090ed2f4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-25 21.52.51.excalidraw.md"
+                "file": "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-25 21.52.51.excalidraw"
+              "icon": "lucide-file",
+              "title": "1.1 原子结构"
             }
           }
         ]
@@ -184,25 +186,25 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-git:Open Git source control": false,
       "handwritten-notes:Create empty handwritten note": false,
-      "excalidraw-cn:Create New Excalidraw File": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "cf9bbf3e090ed2f4",
   "lastOpenFiles": [
+    "Physics/README.md",
+    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+    "CodeLearn/julia/类型传递.md",
+    "Math/ComplexFunction/Chapter1/1.1.md",
+    "Excalidraw/Drawing 2025-03-25 21.52.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-27 22.25.12.excalidraw.md",
     "Math/ComplexFunction/Chapter1/1.2.md",
     "handwritten-notes/New note.pdf",
-    "Excalidraw/Drawing 2025-03-25 21.52.51.excalidraw.md",
     "Excalidraw",
     "excalidraw 25-03-25 09.49.01.ex",
     "tesrfig1.ex",
-    "Physics/README.md",
-    "CodeLearn/julia/类型传递.md",
     "handwritten-notes",
-    "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
     "CodeLearn/julia.md",
     "CodeLearn/julia",
-    "Math/ComplexFunction/Chapter1/1.1.md",
     "MSEclass/Fundation/未命名.md",
     "MSEclass/Fundation/Chapter1",
     "MSEclass/Fundation",
