@@ -6,5 +6,10 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-maroon",
   "anuppuccin-theme-settings@@anp-latex-inline-color": "anp-latex-inline-text",
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
-  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true
+  "anuppuccin-theme-settings@@anp-pdf-blend-toggle-dark": true,
+  "zen@@alt-heading-off": true,
+  "zen@@heading-bottom-line-off": true,
+  "zen@@win-window-opacity": 1,
+  "zen@@win-window-brightness": 0.68,
+  "zen@@win-bg-image-url": "url('https://s3.bmp.ovh/imgs/2025/03/28/147813d8b5e2e963.jpg')"
 }
