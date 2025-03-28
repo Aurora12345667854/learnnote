@@ -3,12 +3,13 @@
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
-
+{trigger: "mat", replacement: "\\begin{matrix}\n$1\n\\end{matrix}", options: "mA"},
+    {trigger: "smat", replacement: "\\left( \\begin{smallmatrix} $0\\end{smallmatrix} \\right) ", options: "mA"},
     // Dashes
 	// {trigger: "--", replacement: "–", options: "tA"},
 	// {trigger: "–-", replacement: "—", options: "tA"},
 	// {trigger: "—-", replacement: "---", options: "tA"},
-    {trigger: "mat", replacement: "matrix", options: "mA"},
+
     // Greek letters
 	{trigger: "@a", replacement: "\\alpha", options: "mA"},
 	{trigger: "@b", replacement: "\\beta", options: "mA"},
