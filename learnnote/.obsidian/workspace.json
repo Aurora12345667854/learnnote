@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World'sOcean_HardEnglish/GroupWork_1.md",
+                "file": "Physics/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GroupWork_1"
+              "title": "README"
+            }
+          },
+          {
+            "id": "077303c245838562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/ComplexFunction/Chapter1/1.1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World'sOcean_HardEnglish/GroupWork_1.md",
+                "file": "World'sOcean_HardEnglish/HomeWork_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "GroupWork_1 的反向链接列表"
+              "title": "HomeWork_1 的反向链接列表"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World'sOcean_HardEnglish/GroupWork_1.md",
+                "file": "World'sOcean_HardEnglish/HomeWork_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GroupWork_1 的出链列表"
+              "title": "HomeWork_1 的出链列表"
             }
           },
           {
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World'sOcean_HardEnglish/GroupWork_1.md"
+                "file": "World'sOcean_HardEnglish/HomeWork_1.md"
               },
               "icon": "lucide-list",
-              "title": "GroupWork_1 的大纲"
+              "title": "HomeWork_1 的大纲"
             }
           },
           {
@@ -190,27 +205,27 @@
       "zenmode:Toggle Zen Mode": false
     }
   },
-  "active": "262138ab69287e77",
+  "active": "077303c245838562",
   "lastOpenFiles": [
-    "World'sOcean_HardEnglish/GroupWork_1.pdf",
-    "World'sOcean_HardEnglish/HomeWork_1.pdf",
-    "World'sOcean_HardEnglish/GroupWork_1.md",
-    "World'sOcean_HardEnglish/HomeWork_1.md",
+    "Physics/README.md",
+    "Math/ComplexFunction/Chapter1/1.1.md",
+    "handwritten-notes/New note.pdf",
+    "Math/Linear algebra",
     "MSEclass/Fundation/Chapter1/1.1 原子结构.md",
+    "World'sOcean_HardEnglish/HomeWork_1.md",
+    "World'sOcean_HardEnglish/HomeWork_1.pdf",
+    "World'sOcean_HardEnglish/GroupWork_1.pdf",
+    "World'sOcean_HardEnglish/GroupWork_1.md",
+    "Excalidraw/Drawing 2025-03-25 21.52.51.excalidraw.md",
+    "Math/ComplexFunction/Chapter1/1.2.md",
     "World'sOcean_HardEnglish",
     "MSEclass/晶体化学/Chapter1",
     "MSEclass/晶体化学",
-    "Physics/README.md",
     "README.md",
     "CodeLearn/julia/类型传递.md",
-    "Math/ComplexFunction/Chapter1/1.2.md",
-    "Math/ComplexFunction/Chapter1/1.1.md",
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/vanilla-normal.scss",
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/vanilla-plus.scss",
     "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/sleek.scss",
-    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles/block.scss",
-    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/styles",
-    "AnuPpuccin/src/modules/Markdown-Elements/Callouts/misc-callouts.scss",
     "AnuPpuccin/preview.png",
     "AnuPpuccin/assets/colorschemes/solarized-light.webp",
     "AnuPpuccin/assets/colorschemes/solarized-dark.webp",
@@ -222,7 +237,6 @@
     "AnuPpuccin/assets/colorschemes/notion-light.webp",
     "AnuPpuccin/assets/colorschemes/notion-dark.webp",
     "AnuPpuccin/README.md",
-    "Excalidraw/Drawing 2025-03-25 21.52.51.excalidraw.md",
     "Excalidraw/Drawing 2025-03-27 22.25.12.excalidraw.md",
     "CodeLearn/julia.md",
     "MSEclass/Fundation/未命名.md",

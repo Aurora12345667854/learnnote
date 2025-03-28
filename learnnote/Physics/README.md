@@ -1,4 +1,3 @@
-```
 [
     // Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
@@ -9,7 +8,7 @@
 	// {trigger: "--", replacement: "–", options: "tA"},
 	// {trigger: "–-", replacement: "—", options: "tA"},
 	// {trigger: "—-", replacement: "---", options: "tA"},
-
+    {trigger: "mat", replacement: "matrix", options: "mA"},
     // Greek letters
 	{trigger: "@a", replacement: "\\alpha", options: "mA"},
 	{trigger: "@b", replacement: "\\beta", options: "mA"},
@@ -305,5 +304,3 @@
 		return output;
 	}, options: "mA", description: "N x N identity matrix"},
 ]
-
-```
