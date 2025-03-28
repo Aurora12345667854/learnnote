@@ -11,12 +11,14 @@
             "id": "af81553a663f6894",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math/Linear algebra/book/geometry_symmetry.pdf"
+                "file": "Math/Linear algebra/Chapter1/1.1 线性空间.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "geometry_symmetry"
+              "icon": "lucide-file",
+              "title": "1.1 线性空间"
             }
           }
         ]
@@ -91,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World'sOcean_HardEnglish/HomeWork_1.md",
+                "file": "Math/Linear algebra/Chapter1/1.1 线性空间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "HomeWork_1 的反向链接列表"
+              "title": "1.1 线性空间 的反向链接列表"
             }
           },
           {
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World'sOcean_HardEnglish/HomeWork_1.md",
+                "file": "Math/Linear algebra/Chapter1/1.1 线性空间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "HomeWork_1 的出链列表"
+              "title": "1.1 线性空间 的出链列表"
             }
           },
           {
@@ -188,22 +190,23 @@
       "zenmode:Toggle Zen Mode": false
     }
   },
-  "active": "af81553a663f6894",
+  "active": "3f33d04f2f91237c",
   "lastOpenFiles": [
+    "Math/Linear algebra/book/LinearAlgebra.pdf",
     "Math/Linear algebra/Chapter1/1.1 线性空间.md",
     "Math/Linear algebra/book/geometry_symmetry.pdf",
+    "Math/Linear algebra/book",
+    "geometry_symmetry.pdf.md",
+    "Math/Linear algebra/book/OUC_LA.pdf",
     "Math/Linear algebra/Chapter1",
     "Math/Linear algebra/book/线性代数入门 (梁鑫) (Z-Library).pdf",
-    "Math/Linear algebra/book/OUC_LA.pdf",
     "Math/Linear algebra/book/合并.pdf",
-    "Math/Linear algebra/book/LinearAlgebra.pdf",
     "Math/Linear algebra/book",
     "Math/Linear algebra/新建文件夹",
     "Physics/README.md",
     "2025-03-28.md",
     "MSEclass/Crystal_Chemistry/Introduction.md",
     "CodeLearn/c++",
-    "CodeLearn/Python",
     "Math/ComplexFunction/Chapter1/1.1.md",
     "MSEclass/physical_chemistry.md",
     "MSEclass/Fundamentals of MS/Chapter1/1.1 原子结构.md",
