@@ -2,4 +2,4 @@
 随便写点，欢迎订阅
 
 
-使用obisidian阅读体验更好，不如说不用obisidian没法看
+使用obsidian阅读体验更好，不如说不用obsidian没法看
