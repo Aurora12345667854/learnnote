@@ -6,6 +6,7 @@
       {
         "id": "c314c69afcfa1eaa",
         "type": "tabs",
+        "dimension": 50.089928057553955,
         "children": [
           {
             "id": "8d38c19fa653afd1",
@@ -24,6 +25,7 @@
       {
         "id": "b62476af337c57b3",
         "type": "tabs",
+        "dimension": 49.910071942446045,
         "children": [
           {
             "id": "01f0185aef7bb4fc",
@@ -31,13 +33,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSEclass/Electrical and Electronics/notes/1 电路基本定律.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 电路基本定律"
+              "title": "README"
             }
           }
         ]
@@ -96,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6aff9e528bdc4f5f",
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MSEclass/Electrical and Electronics/notes/1 电路基本定律.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "1 电路基本定律 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -131,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MSEclass/Electrical and Electronics/notes/1 电路基本定律.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1 电路基本定律 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -211,19 +213,20 @@
   },
   "active": "01f0185aef7bb4fc",
   "lastOpenFiles": [
-    "MSEclass/Electrical and Electronics/handout/C1.pdf",
     "MSEclass/Electrical and Electronics/notes/1 电路基本定律.md",
+    "MSEclass/Electrical and Electronics/handout/C1.pdf",
+    "MSEclass/Electrical and Electronics/README.md",
+    "MSEclass/Electrical and Electronics/handout/C2.pdf",
+    "MSEclass/Electrical and Electronics/handout/2025电工电子学实验指导书.pdf",
+    "MSEclass/Electrical and Electronics/handout/C4.pdf",
+    "MSEclass/Electrical and Electronics/handout/C3.pdf",
     "README.md",
     "MSEclass/Electrical and Electronics/notes",
     "MSEclass/Crystal_Chemistry/Introduction.md",
     "MSEclass/Electrical and Electronics/handout/C5.pdf",
-    "MSEclass/Electrical and Electronics/handout/C4.pdf",
     "Physics/Theoretical Mechanics",
     "Physics/Statistical physics",
     "Physics/Quantum Mechanics",
-    "Physics/Electrodynamics",
-    "MSEclass/Physical_chemistry",
-    "MSEclass/Organic_Chemistry",
     "Math/Probability/Chapter1/1.1 随机变量.md",
     "Math/Linear algebra/Chapter1/1.1 线性空间.md",
     "geometry_symmetry.pdf.md",
@@ -254,7 +257,6 @@
     "Math/Complex Functions/未命名.md",
     "Math/未命名.md",
     "eng1.md",
-    "Math/群论.md",
-    "材料科学基础/晶体学基础.md"
+    "Math/群论.md"
   ]
 }
